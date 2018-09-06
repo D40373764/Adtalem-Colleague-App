@@ -1,3 +1,5 @@
-# adtalem_colleague_app
+# Adtalem Colleague Application
 
-Adtalem colleague application.
+A simple app to access https://my.adtalem.com.
+
+https://flutter.io/android-release/

@@ -9,5 +9,6 @@ ios/
 pubspec.lock
 *.iml
 build/
+key.properties
 
 .flutter-plugins
